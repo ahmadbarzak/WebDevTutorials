@@ -1,0 +1,24 @@
+.todo {
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.todo:nth-child(odd) {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.todo:nth-child(even) {
+    background-color: rgba(128, 128, 128, 0.3);
+}
+
+.todo:hover {
+    background-color: rgba(0, 0, 128, 0.3);
+}
+
+.done {
+    color: darkgray;
+    text-decoration: line-through;
+}

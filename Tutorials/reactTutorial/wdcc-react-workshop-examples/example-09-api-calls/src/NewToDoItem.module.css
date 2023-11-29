@@ -1,0 +1,12 @@
+.newTodo {
+    display: flex;
+    flex-direction: row;
+}
+
+.newTodo > * {
+    margin: 5px;
+}
+
+.newTodo > input {
+    flex-grow: 1;
+}
