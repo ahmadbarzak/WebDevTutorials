@@ -1,0 +1,302 @@
+[
+    {
+        "dexNumber": 1,
+        "name": "Bulbasaur",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+        "dexEntry": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
+    },
+    {
+        "dexNumber": 2,
+        "name": "Ivysaur",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+        "dexEntry": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
+    },
+    {
+        "dexNumber": 3,
+        "name": "Venusaur",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+        "dexEntry": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
+    },
+    {
+        "dexNumber": 4,
+        "name": "Charmander",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+        "dexEntry": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
+    },
+    {
+        "dexNumber": 5,
+        "name": "Charmeleon",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+        "dexEntry": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
+    },
+    {
+        "dexNumber": 6,
+        "name": "Charizard",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+        "dexEntry": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+    },
+    {
+        "dexNumber": 7,
+        "name": "Squirtle",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+        "dexEntry": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth."
+    },
+    {
+        "dexNumber": 8,
+        "name": "Wartortle",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+        "dexEntry": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+    },
+    {
+        "dexNumber": 9,
+        "name": "Blastoise",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+        "dexEntry": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel."
+    },
+    {
+        "dexNumber": 10,
+        "name": "Caterpie",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+        "dexEntry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+    },
+    {
+        "dexNumber": 11,
+        "name": "Metapod",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+        "dexEntry": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack."
+    },
+    {
+        "dexNumber": 12,
+        "name": "Butterfree",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+        "dexEntry": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
+    },
+    {
+        "dexNumber": 13,
+        "name": "Weedle",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+        "dexEntry": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+    },
+    {
+        "dexNumber": 14,
+        "name": "Kakuna",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+        "dexEntry": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    },
+    {
+        "dexNumber": 15,
+        "name": "Beedrill",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+        "dexEntry": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
+    },
+    {
+        "dexNumber": 16,
+        "name": "Pidgey",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+        "dexEntry": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+    },
+    {
+        "dexNumber": 17,
+        "name": "Pidgeotto",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+        "dexEntry": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+    },
+    {
+        "dexNumber": 18,
+        "name": "Pidgeot",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+        "dexEntry": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+    },
+    {
+        "dexNumber": 19,
+        "name": "Rattata",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+        "dexEntry": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
+    },
+    {
+        "dexNumber": 20,
+        "name": "Raticate",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/20.png",
+        "dexEntry": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+    },
+    {
+        "dexNumber": 21,
+        "name": "Spearow",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+        "dexEntry": "Inept at flying high. However, it can fly around very fast to protect its territory."
+    },
+    {
+        "dexNumber": 22,
+        "name": "Fearow",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
+        "dexEntry": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+    },
+    {
+        "dexNumber": 23,
+        "name": "Ekans",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+        "dexEntry": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+    },
+    {
+        "dexNumber": 24,
+        "name": "Arbok",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+        "dexEntry": "The frightening patterns on its belly have been studied. Six variations have been confirmed."
+    },
+    {
+        "dexNumber": 25,
+        "name": "Pikachu",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+        "dexEntry": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
+    },
+    {
+        "dexNumber": 26,
+        "name": "Raichu",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+        "dexEntry": "It can discharge bursts of electricity exceeding 100,000 volts— a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
+    },
+    {
+        "dexNumber": 27,
+        "name": "Sandshrew",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+        "dexEntry": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging."
+    },
+    {
+        "dexNumber": 28,
+        "name": "Sandslash",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/28.png",
+        "dexEntry": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree."
+    },
+    {
+        "dexNumber": 29,
+        "name": "Nidoran-f",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+        "dexEntry": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn."
+    },
+    {
+        "dexNumber": 30,
+        "name": "Nidorina",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+        "dexEntry": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves."
+    },
+    {
+        "dexNumber": 31,
+        "name": "Nidoqueen",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/31.png",
+        "dexEntry": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present."
+    },
+    {
+        "dexNumber": 32,
+        "name": "Nidoran-m",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/32.png",
+        "dexEntry": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with."
+    },
+    {
+        "dexNumber": 33,
+        "name": "Nidorino",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/33.png",
+        "dexEntry": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body."
+    },
+    {
+        "dexNumber": 34,
+        "name": "Nidoking",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+        "dexEntry": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn."
+    },
+    {
+        "dexNumber": 35,
+        "name": "Clefairy",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+        "dexEntry": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+    },
+    {
+        "dexNumber": 36,
+        "name": "Clefable",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+        "dexEntry": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
+    },
+    {
+        "dexNumber": 37,
+        "name": "Vulpix",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+        "dexEntry": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six."
+    },
+    {
+        "dexNumber": 38,
+        "name": "Ninetales",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png",
+        "dexEntry": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
+    },
+    {
+        "dexNumber": 39,
+        "name": "Jigglypuff",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+        "dexEntry": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy."
+    },
+    {
+        "dexNumber": 40,
+        "name": "Wigglytuff",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/40.png",
+        "dexEntry": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly."
+    },
+    {
+        "dexNumber": 41,
+        "name": "Zubat",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+        "dexEntry": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies."
+    },
+    {
+        "dexNumber": 42,
+        "name": "Golbat",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+        "dexEntry": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
+    },
+    {
+        "dexNumber": 43,
+        "name": "Oddish",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+        "dexEntry": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+    },
+    {
+        "dexNumber": 44,
+        "name": "Gloom",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+        "dexEntry": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched."
+    },
+    {
+        "dexNumber": 45,
+        "name": "Vileplume",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+        "dexEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+    },
+    {
+        "dexNumber": 46,
+        "name": "Paras",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+        "dexEntry": "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures."
+    },
+    {
+        "dexNumber": 47,
+        "name": "Parasect",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+        "dexEntry": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions."
+    },
+    {
+        "dexNumber": 48,
+        "name": "Venonat",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/48.png",
+        "dexEntry": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
+    },
+    {
+        "dexNumber": 49,
+        "name": "Venomoth",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+        "dexEntry": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
+    },
+    {
+        "dexNumber": 50,
+        "name": "Diglett",
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+        "dexEntry": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
+    }
+]
